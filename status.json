@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-27T12:15:57Z",
+  "updated_at": "2026-05-27T12:55:23Z",
   "targets": [
     {
       "name": "Google",
@@ -8,12 +8,13 @@
       "group": "external",
       "status": "up",
       "status_code": 200,
-      "response_ms": 63,
+      "response_ms": 110,
       "ssl_days_left": null,
       "error": null,
       "last_down": null,
       "maintenance": false,
       "history": [
+        "up",
         "up"
       ]
     },
@@ -24,12 +25,13 @@
       "group": "external",
       "status": "up",
       "status_code": 200,
-      "response_ms": 362,
+      "response_ms": 320,
       "ssl_days_left": null,
       "error": null,
       "last_down": null,
       "maintenance": false,
       "history": [
+        "up",
         "up"
       ]
     },
@@ -40,12 +42,13 @@
       "group": "external",
       "status": "up",
       "status_code": 200,
-      "response_ms": 101,
+      "response_ms": 163,
       "ssl_days_left": null,
       "error": null,
       "last_down": null,
       "maintenance": false,
       "history": [
+        "up",
         "up"
       ]
     }
