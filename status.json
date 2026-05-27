@@ -1,1 +1,53 @@
-{"updated_at": null, "targets": []}
+{
+  "updated_at": "2026-05-27T12:15:57Z",
+  "targets": [
+    {
+      "name": "Google",
+      "url": "https://www.google.com",
+      "type": "http",
+      "group": "external",
+      "status": "up",
+      "status_code": 200,
+      "response_ms": 63,
+      "ssl_days_left": null,
+      "error": null,
+      "last_down": null,
+      "maintenance": false,
+      "history": [
+        "up"
+      ]
+    },
+    {
+      "name": "GitHub",
+      "url": "https://github.com",
+      "type": "http",
+      "group": "external",
+      "status": "up",
+      "status_code": 200,
+      "response_ms": 362,
+      "ssl_days_left": null,
+      "error": null,
+      "last_down": null,
+      "maintenance": false,
+      "history": [
+        "up"
+      ]
+    },
+    {
+      "name": "Cloudflare",
+      "url": "https://1.1.1.1",
+      "type": "http",
+      "group": "external",
+      "status": "up",
+      "status_code": 200,
+      "response_ms": 101,
+      "ssl_days_left": null,
+      "error": null,
+      "last_down": null,
+      "maintenance": false,
+      "history": [
+        "up"
+      ]
+    }
+  ]
+}
